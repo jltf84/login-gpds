@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0060" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-11-19T02:58:15" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="probar login" timestamp="2021-11-19T02:58:15" tests="1" file="C:\Users\luis\Desktop\UTA\ING GESTION DE SISTEMAS\10 CUATRIMESTRE\DMI\UNIDAD II\login-gpds\test.js" time="0.0030" failures="0">
+    <testcase name="probar login prueba contraseña y usuario" time="0.0000" classname="prueba contraseña y usuario">
+    </testcase>
+  </testsuite>
+</testsuites>
