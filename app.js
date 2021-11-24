@@ -1,18 +1,18 @@
 
 
 
-function validacion() {
+function validacion(username,pass) {
  
  var usuario = "admin";
  var password = "123456";
 
-  var username = document.getElementById("usuario");
-  var pass = document.getElementById("pass");
-  var y= location.href="home.html"
+  username = document.getElementById("usuario");
+  pass = document.getElementById("pass");
+  //var y= location.href="home.html"
 
   if (username.value == usuario && pass.value == password) {
     alert("contaseña correcta");
-    return y;
+    return  window.location.href='home.html'
   } else {
     alert("contraseña o nombre de usuario invalida");
   }
